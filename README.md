@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Generative AI and Computer Vision**
 
-- 👯 I’m looking to collaborate on ** projects that helps me develop my skills and introduces me to different fields in data science**
+- 👯 I’m looking to collaborate on **projects that helps me develop my skills and introduces me to different fields in data science**
 
 - 💬 Ask me about **Machine Learning ,Deep learning**
 
